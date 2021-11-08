@@ -1,4 +1,4 @@
-import reactDom from "react-dom";
+import ReactDom from "react-dom";
 import React from "react";
 import Button from 'react-bootstrap/Button';
 import App from "../App";
